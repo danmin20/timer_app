@@ -58,7 +58,7 @@ class Timer extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#EB6F66"
+    backgroundColor: "white"
   },
   upper: {
     flex: 2,
@@ -72,9 +72,10 @@ const styles = StyleSheet.create({
     flexDirection: 'row'
   },
   time: {
-    color: "white",
+    color: "#FFB9A9",
     fontSize: 100,
-    fontWeight: "100"
+    fontWeight: "100",
+    fontWeight: "bold"
   }
 });
 

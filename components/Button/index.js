@@ -19,7 +19,7 @@ Button.propTypes = {
 const styles = StyleSheet.create({
     button: {
         marginHorizontal:10,
-        color: "white"
+        color: "#B6E1FF"
     }
 })
 
